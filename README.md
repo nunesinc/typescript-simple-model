@@ -6,7 +6,7 @@ Como configurar do zero a stack em typescript:
 
 -   cria a pasta do projeto
 -   cria o .gitignore na raiz da pasta do projeto
--   yarn init -y ou npm init -y
+-   ```yarn init -y``` ou ```npm init -y```
 -   irá iniciar o package.json
 
 instala as dependencias
@@ -16,13 +16,13 @@ instala as dependencias
 
 ## Configuração typescript
 
--   npm run tsc -- --init
+-   ```npm run tsc -- --init```
 -   irá iniciar o tsconfig.json
 
--   npm run tsc -v
--   npm tsc -v
+-   ```npm run tsc -v```
+-   ```npm tsc -v```
 
--   tsc.cmd  ou npm run tsc //para fazer o build do ts para js
+-   ```tsc.cmd```  ou ```npm run tsc``` //para fazer o build do ts para js
 
 ---
 
@@ -46,3 +46,12 @@ https://sharklabs.com.br/testes-unitarios-com-nodejs-jest-typescript/
 
 ## Commit
 -   update package.json : npm version patch
+
+## Usando este modelo
+-   clone ou baixe o .zip
+-   entre na pasta e rode o comando ```npm install```
+-   faça as alterações necessárias
+
+
+## ATENÇÃO
+-   Uso é pessoal somente para facilitar o aprendizado. Sempre atualize  seu package.json ou siga os passos acima para criar do zero sua stack básica e garantir as últimas versões da libs
