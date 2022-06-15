@@ -11,8 +11,8 @@ Como configurar do zero a stack em typescript:
 
 instala as dependencias
 
--   npm install --save-dev typescript
--   npm install --save-dev ts-node jest ts-jest prettier jest-junit @types/jest
+-   `npm install --save-dev typescript`
+-   ```npm install --save-dev ts-node jest ts-jest prettier jest-junit @types/jest```
 
 ## Configuração typescript
 
