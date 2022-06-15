@@ -10,7 +10,7 @@
         "fmt": "prettier -w .",
         "fmtc": "prettier -c"
     },
-    "repository": "https://github.com/nunesinc/Typescript-study.git",
+    "repository": "https://github.com/nunesinc/lunes-pattern-public.git",
     "author": "nunesinc",
     "license": "ISC",
     "devDependencies": {
